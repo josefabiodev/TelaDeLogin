@@ -93,5 +93,8 @@
   <ItemGroup>
     <None Include="Resources\logo-removebg-preview.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TelaLogin.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
