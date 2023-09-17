@@ -1,4 +1,4 @@
 # Tela de Login
 Tela de Login em Windows Forms
 
-![Tela de Login](https://github.com/josefabiodev/TelaDeLogin/blob/main/Resources/TelaLogin?raw=true)
+![TelaLogin](https://github.com/josefabiodev/TelaDeLogin/assets/134091482/c43d90b6-1ce8-4581-be98-192c61ec23c0)
